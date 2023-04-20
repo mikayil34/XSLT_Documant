@@ -1,0 +1,15 @@
+D:\Git_Works\XSLT_Documant\XSLT_Documant\XSLT_Documant\bin\Debug\net7.0\XSLT_Documant.exe
+D:\Git_Works\XSLT_Documant\XSLT_Documant\XSLT_Documant\bin\Debug\net7.0\XSLT_Documant.deps.json
+D:\Git_Works\XSLT_Documant\XSLT_Documant\XSLT_Documant\bin\Debug\net7.0\XSLT_Documant.runtimeconfig.json
+D:\Git_Works\XSLT_Documant\XSLT_Documant\XSLT_Documant\bin\Debug\net7.0\XSLT_Documant.dll
+D:\Git_Works\XSLT_Documant\XSLT_Documant\XSLT_Documant\bin\Debug\net7.0\XSLT_Documant.pdb
+D:\Git_Works\XSLT_Documant\XSLT_Documant\XSLT_Documant\obj\Debug\net7.0\XSLT_Documant.csproj.AssemblyReference.cache
+D:\Git_Works\XSLT_Documant\XSLT_Documant\XSLT_Documant\obj\Debug\net7.0\XSLT_Documant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_Works\XSLT_Documant\XSLT_Documant\XSLT_Documant\obj\Debug\net7.0\XSLT_Documant.AssemblyInfoInputs.cache
+D:\Git_Works\XSLT_Documant\XSLT_Documant\XSLT_Documant\obj\Debug\net7.0\XSLT_Documant.AssemblyInfo.cs
+D:\Git_Works\XSLT_Documant\XSLT_Documant\XSLT_Documant\obj\Debug\net7.0\XSLT_Documant.csproj.CoreCompileInputs.cache
+D:\Git_Works\XSLT_Documant\XSLT_Documant\XSLT_Documant\obj\Debug\net7.0\XSLT_Documant.dll
+D:\Git_Works\XSLT_Documant\XSLT_Documant\XSLT_Documant\obj\Debug\net7.0\refint\XSLT_Documant.dll
+D:\Git_Works\XSLT_Documant\XSLT_Documant\XSLT_Documant\obj\Debug\net7.0\XSLT_Documant.pdb
+D:\Git_Works\XSLT_Documant\XSLT_Documant\XSLT_Documant\obj\Debug\net7.0\XSLT_Documant.genruntimeconfig.cache
+D:\Git_Works\XSLT_Documant\XSLT_Documant\XSLT_Documant\obj\Debug\net7.0\ref\XSLT_Documant.dll
